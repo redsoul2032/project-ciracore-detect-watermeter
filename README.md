@@ -8,4 +8,4 @@ All codes are used together with the CiRA CORE program to read water meters with
 6. Save data to excel.
 7. Check upload status
 8. Upload the file to Google Drive.
-![Complete system diagram and code location](\Image\workflow.png)
+![Complete system diagram and code location](..\Image\workflow.png)
