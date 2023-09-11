@@ -8,4 +8,5 @@ All codes are used together with the CiRA CORE program to read water meters with
 6. Save data to excel.
 7. Check upload status
 8. Upload the file to Google Drive.
-![Complete system diagram and code location](..\Image\workflow.png)
+
+![workflow](https://github.com/redsoul2032/project-ciracore-detect-watermeter/assets/67827372/00471e57-89bf-4aa4-bef2-4a5846a45e71)
