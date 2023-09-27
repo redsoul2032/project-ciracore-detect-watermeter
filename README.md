@@ -1,10 +1,6 @@
 # The Application of Deep Learning Technology for Reading Water Meter using CiRA CORE
-These codes are used in this project to read water meters using CiRA CORE, with the following details:
-
-All files related to the project
-1. [project].rar 
-
-Spilt Code Python
+These codes are used in [this project](https://github.com/redsoul2032/detect_meterwater_cira)
+to read water meters using CiRA CORE with the following details:
 1. Program to rotate images 90 and 180 degrees.
 2. Program to adjust the image angle to the correct position.
 3. Rearrange the output numbers from the detection.
