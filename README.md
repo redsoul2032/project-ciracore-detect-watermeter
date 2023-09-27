@@ -1,5 +1,10 @@
 # project-ciracore-detect-watermeter
 All codes are used together with the CiRA CORE program to read water meters with DEEP LEARNING TECHNOLOGY with the following details.
+
+All files related to the project
+1. [project].rar 
+
+Spilt Code Python
 1. Program to rotate images 90 and 180 degrees.
 2. Program to adjust the image angle to the correct position.
 3. Arrange the output numbers obtained from the detection.
