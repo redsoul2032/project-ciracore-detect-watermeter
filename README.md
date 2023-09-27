@@ -10,7 +10,4 @@ to read water meters using CiRA CORE with the following details:
 7. Check upload status.
 8. Upload the file to Google Drive.
 
-another file:
-[project] - this file is a full version of project 
-
 ![workflow](https://github.com/redsoul2032/project-ciracore-detect-watermeter/assets/67827372/00471e57-89bf-4aa4-bef2-4a5846a45e71)
