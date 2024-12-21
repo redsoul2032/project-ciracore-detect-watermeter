@@ -11,3 +11,15 @@ to read water meters using CiRA CORE with the following details:
 8. Upload the file to Google Drive.
 
 ![workflow](https://github.com/redsoul2032/project-ciracore-detect-watermeter/assets/67827372/00471e57-89bf-4aa4-bef2-4a5846a45e71)
+
+## Project Members
+### Students
+- Panuphong Thongvilard  
+- Puriphat Jirapornsawad  
+### Advisors
+- Kwanchai Eurviriyankul  
+- Anupong Pairote  
+- Natchasit Chukiatkhajorn  
+- Phichit Thananchai  
+- Anan Tubkerd  
+- Pranote Pukkapun  
